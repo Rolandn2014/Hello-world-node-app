@@ -1,0 +1,22 @@
+{
+  "name": "hello-world-node-app",
+  "version": "1.0.0",
+  "description": "This application is our simply website with \"hello world\" displayed on the landing page\r my first class",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rolandn2014/Hello-world-node-app.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Rolandn2014/Hello-world-node-app/issues"
+  },
+  "homepage": "https://github.com/Rolandn2014/Hello-world-node-app#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
